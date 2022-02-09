@@ -2,7 +2,8 @@
   [![Years Badge](https://badges.pufler.dev/years/infectionfire)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/infectionfire)](https://badges.pufler.dev)
   [![Commits Badge](https://badges.pufler.dev/commits/monthly/infectionfire)](https://badges.pufler.dev)
- 
+  [![codewars](https://www.codewars.com/users/infectionfire/badges/small)](https://www.codewars.com/users/infectionfire) 
+
 
   
   - 🔭 I’m currently learning Java and others in Russia
@@ -21,6 +22,5 @@
  
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=infectionfire&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=infectionfire&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  [![codewars](https://www.codewars.com/users/infectionfire/badges/small)](https://www.codewars.com/users/infectionfire) 
   [![trophy](https://github-profile-trophy.vercel.app/?username=infectionfire&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=infectionfire&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
