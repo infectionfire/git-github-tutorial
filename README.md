@@ -20,7 +20,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
  
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=infectionfire&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=infectionfire&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/infectionfire/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=infectionfire&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=infectionfire&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   [![codewars](https://www.codewars.com/users/infectionfire/badges/small)](https://www.codewars.com/users/infectionfire) 
   [![trophy](https://github-profile-trophy.vercel.app/?username=infectionfire&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=infectionfire&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
